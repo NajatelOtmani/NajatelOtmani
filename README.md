@@ -13,8 +13,5 @@ Currently seeking a **6-month PFE internship in Data Science / Machine Learning*
 ---
 
 📧 **[najatelotmani3@gmail.com](mailto:najatelotmani3@gmail.com)**
-💼 [LinkedIn](https://linkedin.com/in/najat-el-otmani)
-
 ---
-
 ### *Building models is only the beginning — I’m interested in making them useful.*
